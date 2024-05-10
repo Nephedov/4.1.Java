@@ -32,6 +32,10 @@
 ### Задание 3
 * Реализован класс <a href="https://github.com/Nephedov/4.3.Java/blob/main/src/CalcCredit.java">CalcCredit.java</a> с методом расчета ежемесячного (аннуитетного) платежа и продемонстрирована работа в
   <a href="https://github.com/Nephedov/4.3.Java/blob/main/src/Main.java">Main.java</a>.
+
+---
+---
+
   
 ## Описание Задания 1. Мили — модернизация (обязательное к выполнению)
 
